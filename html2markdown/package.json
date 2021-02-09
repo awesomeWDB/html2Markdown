@@ -1,0 +1,47 @@
+{
+  "_from": "html2markdown@^1.1.0",
+  "_id": "html2markdown@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ezmRX3H/Cn7Gdrfnc/KlCn2VDTw=",
+  "_location": "/html2markdown",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "html2markdown@^1.1.0",
+    "name": "html2markdown",
+    "escapedName": "html2markdown",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/html2markdown/download/html2markdown-1.1.0.tgz",
+  "_shasum": "7b39915f71ff0a7ec676b7e773f2a50a7d950d3c",
+  "_spec": "html2markdown@^1.1.0",
+  "_where": "D:\\chrome-extensions\\csdn-download",
+  "author": {
+    "name": "Kates Gasis"
+  },
+  "bugs": {
+    "url": "https://github.com/alexgorbatchev/html2markdown/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An HTML to Markdown converter.",
+  "homepage": "https://github.com/alexgorbatchev/html2markdown#readme",
+  "keywords": [
+    "html",
+    "markdown"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "html2markdown",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexgorbatchev/html2markdown.git"
+  },
+  "version": "1.1.0"
+}
